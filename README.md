@@ -29,7 +29,7 @@
 
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
- - 📫 Reach me through mail `Aniketraj80707@gmail.com`
+ - 📫 Reach me through mail `rajaniket.1913@gmail.com`
 
 
 <br/>
