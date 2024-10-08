@@ -23,9 +23,9 @@
   
   <!-- currently learning skills  -->
 
- - 🌱 I’m currently learning DSA and Development.
+ - 🌱 I’m currently learning C Language.
 
- - 💬 Ask me about Full-Stack and DSA.
+ - 💬 Ask me about Basics of C Programming.
 
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
