@@ -9,7 +9,7 @@
 
 <!--trophy-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrajj" alt="aniketrajj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketrajj" alt="aniketrajj" /></a> </p>
 
 <!--profile views-->
 ----
