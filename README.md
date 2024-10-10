@@ -29,6 +29,8 @@
 
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
+ - 🎉 Selected as a Contributor for GirlScript Summer of Code 2024 Extended Edition! 
+
  - 📫 Reach me through mail `rajaniket.1913@gmail.com`
 
 
