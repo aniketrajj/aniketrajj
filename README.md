@@ -31,7 +31,7 @@
 
  - 🎉 Selected as a Contributor for GirlScript Summer of Code 2024 Extended Edition! 
 
- - 📫 Reach me through mail `rajaniket.1913@gmail.com`
+ - 📫 Reach me through mail rajaniket.1913@gmail.com
 
 
 <br/>
